@@ -1,6 +1,10 @@
 # power-bi-product-sales-performance-dashboard
 An interactive Power BI dashboard analyzing product sales, profit, customer segments, and regional performance to deliver actionable business insights.
 
+# REPORT VIEW
+
+<img width="1008" height="547" alt="Image" src="https://github.com/user-attachments/assets/8765c684-33d1-4baf-8c65-3792d6eacd64" />
+
 # Key Objectives
 Analyze overall sales and profit performance
 Track regional and city-level sales distribution
