@@ -59,16 +59,13 @@ Interactive slicer (Ship Mode filter)
 Drill-down and dynamic filtering
 Clean and user-friendly dashboard layout
 Multi-dimensional analysis (time, region, category, reps)
-▶️ How to Use
+
+# ▶️ How to Use
 Download the .pbix file
 Open using Power BI Desktop
 Use the filters and visuals to explore insights
-📷 Dashboard Preview
 
-(Add your screenshot here — this boosts engagement on GitHub significantly)
-
-Business Value
-
+## Business Value
 This dashboard enables stakeholders to:
 
 Make data-driven decisions
@@ -76,7 +73,7 @@ Identify high-performing products and regions
 Optimize sales strategies and resource allocation
 Improve profitability and operational efficiency
 
- Author
+ # Author
 Oluwapelumi Amusan
 
 Data Analyst | HR Management Professional
